@@ -133,7 +133,7 @@
         "baseline": "middle",
         "dx": -3,
         "dy": -5,
-        "fontSize": 11
+        "fontSize": 15
       },
       "encoding": {
         "x": {"datum": "2014"},
